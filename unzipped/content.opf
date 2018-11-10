@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Unknown" opf:role="aut">The RZA</dc:creator>
+    <meta name="calibre:timestamp" content="2018-11-09T04:04:02.632648+00:00"/>
+    <dc:title>The Tao Wu</dc:title>
+    <dc:language>en</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8dbc95f8-5833-4d4e-9834-4bf172bbb62e</dc:identifier>
+    <meta name="cover" content="cover-image" />
+  </metadata>
+  <manifest>
+    <item href="OEBPS/0-foreword.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/1-allah.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/2-wisdom-definition.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/3-introduction-travels.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/4-first-pillar-of-wisdom-the-call.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/5-isalnd-a-parable-of-solitude.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/6-the-art-of-listening.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/7-second-pillar-of-wisdom-knowledge.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/8-fear.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/9-horror.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/10-chess-lessons.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/11-third-pillar-of-wisdom-chambers.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item id="cover-image" href="OEBPS/assets/the-tao-of-wu-cover.jpg" media-type="image/jpeg" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+  </spine>
+  <guide/>
+</package>
